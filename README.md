@@ -2,7 +2,7 @@
 ## Hey 👋
 
 🔭 I’m currently working on Data Analysis Projects
-🌱 I’m currently learning Data Engineering
+🌱 In the path to Data Engineering
 
 <!--
 **UnsavedInfo/UnsavedInfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
