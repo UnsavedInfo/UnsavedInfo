@@ -2,6 +2,7 @@
 ## Hey 👋
 
 🔭 I’m currently working on Data Analysis Projects
+
 🌱 In the path to Data Engineering
 
 <!--
