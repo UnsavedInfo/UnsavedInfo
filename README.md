@@ -1,9 +1,11 @@
 # UnsavedInfo
 ## Hey 👋
 
-🔭 I’m currently working on Data Analysis Projects
+🔭 I’m a Data Anlalyst
 
 🌱 In the path to Data Engineering
+
+⚡Currently interested in ETL development, data pipelines, big data and cloud platforms
 
 <!--
 **UnsavedInfo/UnsavedInfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
